@@ -1051,3 +1051,10 @@ header.scrolled nav.glass {
     }
 }
 
+#main-header.scrolled {
+    max-width: 90%;
+}
+
+#mobile-menu {
+    max-width: 90%;
+}
